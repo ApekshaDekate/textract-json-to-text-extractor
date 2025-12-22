@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+pyvenv.cfg
+
+# Output files
+output/
+*.bin
+
+# OS files
+.DS_Store
+
+
